@@ -6,5 +6,5 @@ Camila Avila: buscar informacion
 Pucheta Ludmila:buscar lugares y logo
 Brizuela Florencia:buscar imagenes, Videos 
 Scrum master: Ludmila Pucheta
-Produc Owner: Avila Camila 
-Team developent: brizuela Florencia
+Product Owner: Avila Camila 
+Team development: brizuela Florencia
